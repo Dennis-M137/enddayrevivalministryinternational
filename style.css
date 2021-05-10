@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgba(211, 65, 155, 0.349);
+}
+header::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+nav a {
+    color: olivedrab;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: navy;
+}
