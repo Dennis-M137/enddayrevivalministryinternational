@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: rgb(0, 255, 242);
+    background-color: silver;
 }
 header::after {
     content: "";
@@ -34,7 +34,7 @@ nav li {
 }
 
 nav a {
-    color: olivedrab;
+    color: slateblue;
     text-decoration: none;
     text-transform: uppercase;
 }
