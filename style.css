@@ -36,11 +36,22 @@ nav li {
 }
 
 nav a {
-    color: olivedrab;
+    color: chocolate;
     text-decoration: none;
     text-transform: uppercase;
 }
 
 nav a:hover {
     color: navy;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
