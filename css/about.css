@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: silver;
+    background-color: orangered;
 }
 header::after {
     content: "";
@@ -22,7 +22,7 @@ header::after {
     clear: both;
 }
 nav {
-    float: right;
+    float: left;
 }
 
 nav ul {
@@ -37,7 +37,7 @@ nav li {
 }
 
 nav a {
-    color:chocolate;
+    color: silver;
     text-decoration: none;
     text-transform: uppercase;
 }

@@ -12,10 +12,11 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
+    word-spacing: 40px;
 }
 
 header {
-    background-color: silver;
+    background-color:orangered;
 }
 header::after {
     content: "";
@@ -23,7 +24,7 @@ header::after {
     clear: both;
 }
 nav {
-    float: right;
+    float: left;
 }
 
 nav ul {
@@ -38,12 +39,17 @@ nav li {
 }
 
 nav a {
-    color: chocolate;
+    color: silver;
     text-decoration: none;
     text-transform: uppercase;
 }
 
 nav a:hover {
     color: navy;
+}
+
+.video {
+    word-spacing: 40px;
+    line-height: 70px;
 }
 
