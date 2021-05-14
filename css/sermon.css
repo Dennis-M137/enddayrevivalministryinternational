@@ -53,3 +53,17 @@ nav a:hover {
     line-height: 70px;
 }
 
+.sound {
+    word-spacing: 150px;
+    line-height: 90px;
+    background-color: greenyellow;
+    border-radius: 25%;
+    border: 7px solid red;
+}
+
+audio {
+    float: center;
+    border-radius: 120%;
+    border: 5px solid yellow;
+}
+
