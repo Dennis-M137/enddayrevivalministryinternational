@@ -51,7 +51,7 @@ nav a:hover {
 }
 
 .column {
-    text-align: left;
+    text-align: center;
     width: 50%;
 }
 
@@ -96,5 +96,7 @@ footer {
 
 .wood {
     float: right;
+    border-radius: 80%;
+    border: 3px solid yellow;
 }
 
