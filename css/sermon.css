@@ -65,5 +65,6 @@ audio {
     float: center;
     border-radius: 120%;
     border: 5px solid yellow;
+    height: 70px;
 }
 
