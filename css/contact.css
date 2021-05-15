@@ -73,14 +73,20 @@ nav a:hover {
     position: relative;
     text-align: center;
     text-shadow: 5px;
-    font-weight: 400;
+    font-weight: 700;
     font-size: xx-large;
     font-family: sans-serif;
-    color: darkred;
+    background-color: gold;
+    border-radius: 50%;
+    color:rgb(221, 44, 44);
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 img {
     border-radius: 50%;
+    border: 5px solid orangered;
     width: 600px;
     height: 500px;
 }
+   

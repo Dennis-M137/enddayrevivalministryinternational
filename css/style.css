@@ -65,11 +65,11 @@ nav a:hover {
     width: 50%;
 }
 
-.row:after {
+.row {
     content: "";
     display: table;
     clear: both;
-    background-color: orange;
+    color: orange;
 }
 
 .text {
