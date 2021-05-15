@@ -89,4 +89,16 @@ img {
     width: 600px;
     height: 500px;
 }
+
+.main {
+    float: left;
+    line-height: 2.5;
+    color: navy;
+}
+
+.kaptembwa {
+    float: right;
+    line-height: 2.5;
+    color: brown;
+}
    

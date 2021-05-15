@@ -149,3 +149,7 @@ footer {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .name {
+      color: navy;
+  }
