@@ -1,7 +1,11 @@
 @media only screen and (max-width: 600px) {
     * {
-width: 100%;    }
-  }
+width: 100%;
+margin-top: 0;
+line-height: none;
+text-align: center;
+   }
+  } 
 
 body {
     text-align: center;
@@ -23,6 +27,7 @@ body {
 
 header {
     background-color: orangered;
+    height: 100px;
 }
 
 header::after {
@@ -32,7 +37,6 @@ header::after {
 }
 nav {
     float: left;
-
 }
 
 nav ul {
