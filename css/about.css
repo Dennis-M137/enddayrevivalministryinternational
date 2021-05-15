@@ -66,3 +66,10 @@ nav a {
 nav a:hover {
     color: navy;
 }
+
+.video {
+margin-top: 50px;
+border: 20px 50px 40px;
+max-height: max-content;
+height: 470px;
+}

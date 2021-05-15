@@ -79,8 +79,9 @@ nav a:hover {
     font-weight: 400;
     font-size: xx-large;
     font-family: sans-serif;
-    color: darkred;
-    border: 2px solid blue;
+    color: rgb(223, 226, 19);
+    border: 5px solid rgb(88, 69, 69);
+    word-spacing: 5px;
 }
 
 .center {
