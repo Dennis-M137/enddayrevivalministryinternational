@@ -66,7 +66,7 @@ nav a:hover {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
+
 }
 
 .wood {
@@ -101,4 +101,22 @@ img {
     line-height: 2.5;
     color: brown;
 }
-   
+
+.heading {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700px;
+    font-size: 55px;
+    text-shadow: 40px;
+    text-decoration: underline;
+    text-decoration-color:rgb(102, 161, 100);
+    text-align: center;
+    font-stretch: expanded;
+}
+
+#text {
+    line-height: 2.3;
+    text-shadow: 40px;
+    font-weight: 100px;
+}
+
