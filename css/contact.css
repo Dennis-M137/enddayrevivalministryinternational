@@ -102,6 +102,18 @@ img {
     color: brown;
 }
 
+.kabarnet {
+float: left;
+line-height: 2.5;
+color: blueviolet;
+}
+
+.kericho {
+    float: right;
+    color: coral;
+    line-height: 2.5;
+}
+
 .heading {
     color: navy;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
