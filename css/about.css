@@ -97,3 +97,27 @@ height: 470px;
     text-align: center;
     font-stretch: expanded;
 }
+
+.branches {
+    color: navy;
+    line-height: 2.5;
+    word-spacing: 3.2;
+    padding-left: 50px;
+}
+
+.samburu {
+    word-spacing: 120px;
+    line-height: 110px;
+    border: 5px solid red;
+    overflow: scroll;
+    height: `500px;
+    background-color: orange;
+    margin-top: 5px;
+}
+
+#support {
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 100;
+}
