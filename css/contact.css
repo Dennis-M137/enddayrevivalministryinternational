@@ -91,27 +91,25 @@ img {
 }
 
 .main {
-    float: left;
+text-align: center;
     line-height: 2.5;
     color: navy;
 }
 
 .kaptembwa {
-    float: right;
-    line-height: 2.5;
+text-align: center;   
+ line-height: 2.5;
     color: brown;
 }
 
 .kabarnet {
-float: left;
-line-height: 2.5;
-color: blueviolet;
+text-align: center;   
+ color: blueviolet;
 }
 
 .kericho {
-    float: right;
+    text-align: center;
     color: coral;
-    line-height: 2.5;
 }
 
 .heading {
@@ -130,5 +128,11 @@ color: blueviolet;
     line-height: 2.3;
     text-shadow: 40px;
     font-weight: 100px;
+}
+
+#branch {
+    text-align: center;
+    float: left;
+    line-height: 1.5;
 }
 
