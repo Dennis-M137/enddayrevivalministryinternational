@@ -105,7 +105,7 @@ height: 470px;
 #samburu {
     word-spacing: 1.5;
     line-height: 1.2;
-    border: 5px solid red;
+    border: 7px solid rgb(34, 156, 204);
     overflow: scroll;
     height: `500px;
     background-color: orange;

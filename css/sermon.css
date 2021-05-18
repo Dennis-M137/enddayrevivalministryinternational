@@ -81,18 +81,18 @@ nav a:hover {
 .video {
     word-spacing: 80px;
     line-height: 110px;
-    border: 5px solid rgba(119, 107, 102, 0.788);
+    border: 7px solid darkmagenta;
     overflow: scroll;
     height: `500px;
-    background-color: rgba(131, 194, 36, 0.562);
+    background-color: rgb(135, 167, 89);
     margin-top: 5px;
 }
 
 .sound {
     word-spacing: 150px;
     line-height: 90px;
-    background-color: greenyellow;
-    border: 7px solid red;
+    background-color: rgb(135, 167, 89);
+    border: 7px solid darkmagenta;
     overflow: scroll;
     height: 300px;
 }

@@ -105,8 +105,8 @@ footer {
 
 .location {
     text-align: justify;
-    color: black;
-    padding-left: 12px;
+    color: darkorchid;
+    padding-left: 15px;
 }
 
 .dropdown {
@@ -159,12 +159,17 @@ footer {
   }
 
   .project {
-      color: blue;
+      color: navy;
       border: 3px solid gold;
       word-spacing: 2.3;
       line-height: 1.3;
       font-weight: 400;
       font-size: 50px;
+      background-color: coral;
+  }
+
+  .project:hover {
+      border:5px dotted violet;
   }
 
   .timothy {
