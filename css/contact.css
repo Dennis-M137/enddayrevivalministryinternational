@@ -84,14 +84,14 @@ nav a:hover {
     font-family: sans-serif;
     background-color: gold;
     border-radius: 50%;
-    color:rgb(221, 44, 44);
+    color: darkviolet;
     margin-left: 50px;
     margin-right: 50px;
 }
 
 img {
-    border-radius: 50%;
-    border: 5px solid orangered;
+    border-radius: 54%;
+    border: 5px double darkmagenta;
     width: 600px;
     height: 500px;
 }
