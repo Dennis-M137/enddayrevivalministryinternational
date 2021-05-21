@@ -11,6 +11,7 @@ word-spacing: 1.5;
         background-color: brown;
         border-radius: 70%;
         height: 40px;
+        border: 7px solid black;
     }
   }
 

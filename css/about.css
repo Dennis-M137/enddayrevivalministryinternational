@@ -2,8 +2,9 @@
     * {
 width: 100%;
 margin-top: 0;
-line-height: none;
+line-height: 1.2;
 text-align: center;
+font-size: small;
    }
   } 
 
@@ -36,7 +37,7 @@ header::after {
 
 nav {
     float: left;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 nav ul {
@@ -47,7 +48,7 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 
 nav a {
@@ -67,10 +68,7 @@ nav a:hover {
 }
 
 .video {
-margin-top: 50px;
-border: 20px 50px 40px;
-max-height: max-content;
-height: 470px;
+margin-top: 10px;
 }
 
 #center {
@@ -82,10 +80,10 @@ height: 470px;
 }
 
 .vision {
-    font-size: 50px;
-    font-weight: 130px;
-    line-height: 1.2;
+    font-size: 30px;
+    font-weight: 50px;
     color:darkorchid;
+    border: 4px double gold;
 }
 
 .heading {
@@ -98,14 +96,23 @@ height: 470px;
     font-stretch: expanded;
 }
 
+#branches {
+    color:darkturquoise;
+    line-height: 1.2;
+    word-spacing: 1.3;
+    font-size: 30px;
+    font-weight: 50px;
+}
+
 .branches {
-    color: navy;
-    line-height: 2.5;
-    word-spacing: 3.2;
-    padding-left: 50px;
-    font-size: 100px;
-    font-weight: 100px;
-    text-shadow: 40px;
+    color: darkgreen;
+    word-spacing: 1.5;
+    font-size: 50px;
+    font-weight: 60px;
+}
+
+#branches ol {
+    list-style: none;
 }
 
 #samburu {
@@ -131,9 +138,9 @@ height: 470px;
 }
 
 .about {
-    color:dodgerblue;
-    font-weight: 130px;
-    font-size: 50px;
+    color: darkmagenta;
+    font-weight: 50px;
+    font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     border: 4px double gold;
 }
