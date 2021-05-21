@@ -119,5 +119,11 @@ audio {
     font-stretch: expanded;
 }
 
+#heading {
+    color: darkorchid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: expanded;
+}
+
 
 
