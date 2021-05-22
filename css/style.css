@@ -75,13 +75,13 @@ nav a:hover {
 .text {
     position: relative;
     text-align: center;
-    text-shadow: 5px;
-    font-weight: 400;
-    font-size: xx-large;
+}
+
+.h {
     font-family: sans-serif;
-    color: rgb(223, 226, 19);
-    border: 5px solid rgb(88, 69, 69);
-    word-spacing: 5px;
+    color: darkorange;
+    font-size: 40px;
+    word-spacing: 3.2;   
 }
 
 .center {
