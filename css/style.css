@@ -94,15 +94,20 @@ nav a:hover {
 
 footer {
     text-align: right;
-    padding: 20px;
     background-color: ivory;
     color:#ffffff;
+}
+
+iframe {
+    padding-bottom: 50px;
+    padding-right: 20px;
 }
 
 .location {
     text-align: justify;
     color: darkorchid;
     padding-left: 15px;
+    padding-top: 30px;
 }
 
 
