@@ -133,9 +133,10 @@ margin-top: 10px;
 }
 
 .about {
-    color: darkmagenta;
-    font-weight: 50px;
+    color: darkcyan;
+    border: 3px solid gold;
+    word-spacing: 2.3;
+    line-height: 1.3;
+    font-weight: 400;
     font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    border: 4px double gold;
 }
