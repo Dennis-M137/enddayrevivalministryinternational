@@ -98,11 +98,6 @@ footer {
     color:#ffffff;
 }
 
-iframe {
-    padding-bottom: 50px;
-    padding-right: 20px;
-}
-
 .location {
     text-align: justify;
     color: darkorchid;
@@ -121,7 +116,7 @@ iframe {
       color: navy;
   }
 
-  .project {
+.project {
       color: darkcyan;
       border: 3px solid gold;
       word-spacing: 2.3;
@@ -130,23 +125,23 @@ iframe {
       font-size: 30px;
   }
 
-  .project:hover {
+.project:hover {
       border:5px dotted violet;
   }
 
-  .timothy {
+.timothy {
       color: navy;
       border: 3px dotted gold;
       font-size: 40px;
   }
 
-  .verse {
+.verse {
       color: darkorchid;
       font-size: 30px;
       font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-  .service {
+.service {
       color: darkcyan;
       font-size: 40px;
   }
@@ -188,3 +183,7 @@ iframe {
       width: 50%;
       padding: 10px;
   }
+
+.gmap {
+    margin-right: 10px;
+}
