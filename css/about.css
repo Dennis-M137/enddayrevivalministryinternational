@@ -37,7 +37,7 @@ header::after {
 
 nav {
     float: left;
-    margin-top: 10px;
+    margin-top: 2px;
 }
 
 nav ul {
@@ -86,6 +86,20 @@ margin-top: 10px;
     border: 4px double gold;
 }
 
+.leadership {
+    font-size: 30px;
+    font-weight: 50px;
+    color:rgb(88, 14, 124);
+    border: 4px double gold; 
+}
+
+.motherchurch {
+    font-size: 30px;
+    font-weight: 50px;
+    color:rgb(129, 37, 175);
+    border: 4px double gold;
+}
+
 .heading {
     color: navy;
     text-decoration: underline;
@@ -106,9 +120,9 @@ margin-top: 10px;
 
 .branches {
     color: darkgreen;
-    word-spacing: 1.5;
-    font-size: 50px;
-    font-weight: 60px;
+    word-spacing: 1.2;
+    font-size: 45px;
+    font-weight: 50px;
 }
 
 #branches ol {
@@ -140,3 +154,4 @@ margin-top: 10px;
     font-weight: 400;
     font-size: 30px;
 }
+
