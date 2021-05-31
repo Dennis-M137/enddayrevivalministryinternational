@@ -187,3 +187,7 @@ footer {
 .gmap {
     margin-right: 10px;
 }
+
+.mySlides {
+    display: inline-block;
+}
