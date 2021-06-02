@@ -118,11 +118,12 @@ footer {
 
 .project {
       color: darkcyan;
-      border: 3px solid gold;
+      border: 3px dotted gold;
       word-spacing: 2.3;
       line-height: 1.3;
       font-weight: 400;
       font-size: 30px;
+      background-color: #f4f4f4;
   }
 
 .project:hover {
