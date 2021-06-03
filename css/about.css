@@ -84,6 +84,7 @@ margin-top: 10px;
     font-weight: 50px;
     color:darkorchid;
     border: 4px double gold;
+    background-color: #f4f4f4;
 }
 
 .leadership {
@@ -91,6 +92,7 @@ margin-top: 10px;
     font-weight: 50px;
     color:rgb(88, 14, 124);
     border: 4px double gold; 
+    background-color: #f4f4f4;
 }
 
 .motherchurch {
@@ -98,6 +100,7 @@ margin-top: 10px;
     font-weight: 50px;
     color:rgb(129, 37, 175);
     border: 4px double gold;
+    background-color: #f4f4f4;
 }
 
 .heading {
@@ -153,5 +156,6 @@ margin-top: 10px;
     line-height: 1.3;
     font-weight: 400;
     font-size: 30px;
+    background-color: #f4f4f4;
 }
 

@@ -166,11 +166,15 @@ button {
     right: 0;
   }
 
-
-
   footer {
     text-align: center;
     padding: 3px;
     background-color: DarkSalmon;
     color: white;
   }
+
+
+.email {
+    color: navy;
+    text-decoration: underline;
+}
