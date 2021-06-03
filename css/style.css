@@ -192,3 +192,8 @@ footer {
 .mySlides {
     display: inline-block;
 }
+
+.email {
+    color: navy;
+    text-decoration: underline;
+}
