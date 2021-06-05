@@ -159,3 +159,13 @@ margin-top: 10px;
     background-color: #f4f4f4;
 }
 
+.num {
+    color: rgb(173, 134, 26);
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
