@@ -17,6 +17,13 @@ body {
     padding-left: 8px;
     padding-right: 8px;
     content: inherit;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
 }
 
 .container {
