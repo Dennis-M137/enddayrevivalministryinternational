@@ -12,10 +12,10 @@ font-size: small;
 body {
     text-align: center;
     background-color: white;
-    margin-left: 8px;
-    margin-right: 8px;
-    padding-left: 8px;
-    padding-right: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
     content: inherit;
     -webkit-font-smoothing: antialiased;
     line-height: 1.5;
@@ -33,7 +33,7 @@ body {
 
 header {
     background-color: #f4f4f4;
-    height: 100px;
+    height: 80px;
 }
 
 header::after {
@@ -86,19 +86,12 @@ margin-top: 10px;
     color: orangered;
 }
 
-.vision {
-    font-size: 30px;
-    font-weight: 50px;
-    color:darkorchid;
-    border: 4px double gold;
-    background-color: #f4f4f4;
-}
 
 .leadership {
     font-size: 30px;
     font-weight: 50px;
     color:rgb(88, 14, 124);
-    border: 4px double gold; 
+    border: 3px dotted gold; 
     background-color: #f4f4f4;
 }
 
@@ -106,7 +99,7 @@ margin-top: 10px;
     font-size: 30px;
     font-weight: 50px;
     color:rgb(129, 37, 175);
-    border: 4px double gold;
+    border: 3px dotted gold;
     background-color: #f4f4f4;
 }
 
@@ -158,7 +151,7 @@ margin-top: 10px;
 
 .about {
     color: darkcyan;
-    border: 3px solid gold;
+    border: 3px dotted gold;
     word-spacing: 2.3;
     line-height: 1.3;
     font-weight: 400;
@@ -176,3 +169,8 @@ footer {
     background-color: DarkSalmon;
     color: white;
   }
+
+.leader {
+    color: darkcyan;
+    font-size: 35px;
+}
