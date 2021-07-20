@@ -166,9 +166,15 @@ margin-top: 10px;
 footer {
     text-align: center;
     padding: 3px;
-    background-color: DarkSalmon;
-    color: white;
+    background-color: whitesmoke;
   }
+
+.end {
+    font-size: 25px;
+    font-weight: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(115, 14, 165)
+}
 
 .leader {
     color: darkcyan;

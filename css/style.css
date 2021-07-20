@@ -105,15 +105,15 @@ nav a:hover {
 
 footer {
     text-align: right;
-    background-color: ivory;
-    color:#ffffff;
+    background-color: whitesmoke;
 }
 
 .location {
     text-align: justify;
-    color: darkorchid;
+    color: rgb(123, 17, 177);
     padding-left: 15px;
     padding-top: 30px;
+    font-size: 20px;
 }
 
 .copy {
